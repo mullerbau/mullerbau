@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Escrevendo códigos desde 2024<br>📚 Estudando: Atualmente aprendendo a aplicação do Python no back-end com Prisma.io. Postgre e React.js<br>🎯 Metas: Desenvolver projetos e dar o primeiro passo no mercado de trabalho.<br>🎲 Fun fact: Além de cursar a faculdade de ADS, sou formado em confeitaria🎂.</p>
+<p align="left">✨ Escrevendo códigos desde 2024<br>📚 Estudando: Atualmente aprendendo a aplicação do Python no back-end e também Prisma.io. Postgre e React.js<br>🎯 Metas: Desenvolver projetos e dar o primeiro passo no mercado de trabalho.<br>🎲 Fun fact: Além de cursar a faculdade de ADS, sou formado em confeitaria🎂.</p>
 
 ###
 
